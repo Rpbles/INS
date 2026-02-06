@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.css": "/INS/static/css/main.877d6823.css",
-    "main.js": "/INS/static/js/main.fa735a3e.js",
+    "main.css": "/INS/static/css/main.8bee3116.css",
+    "main.js": "/INS/static/js/main.f9c59b00.js",
+    "static/media/shopbutton.jpg": "/INS/static/media/shopbutton.6fc36e10e9b768e9d1c5.jpg",
     "static/media/image.jpg": "/INS/static/media/image.9cbb30fcf06108da7cbd.jpg",
     "static/media/tasks-bg.jpg": "/INS/static/media/tasks-bg.9cbb30fcf06108da7cbd.jpg",
     "static/media/rewards.jpg": "/INS/static/media/rewards.0e0162a766c991aec074.jpg",
+    "static/media/shoes.jpg": "/INS/static/media/shoes.ac319c091f8a446e5744.jpg",
+    "static/media/hat.jpg": "/INS/static/media/hat.4d689d6786fa1674ac08.jpg",
+    "static/media/headphones.jpg": "/INS/static/media/headphones.4c834824cf60b0cd354a.jpg",
+    "static/media/avantar.jpg": "/INS/static/media/avantar.b7ef37ab96325d387e01.jpg",
     "static/media/tasks.jpg": "/INS/static/media/tasks.bca95167e408cb770c7c.jpg",
+    "static/media/tshirt.jpg": "/INS/static/media/tshirt.30c7d987fcdf78e2eb29.jpg",
+    "static/media/fantasysneakers.jpg": "/INS/static/media/fantasysneakers.ab8756dc80cc67e088cf.jpg",
+    "static/media/fantasyhoodie.jpg": "/INS/static/media/fantasyhoodie.263f06902d89b7704839.jpg",
     "index.html": "/INS/index.html",
-    "main.877d6823.css.map": "/INS/static/css/main.877d6823.css.map",
-    "main.fa735a3e.js.map": "/INS/static/js/main.fa735a3e.js.map"
+    "main.8bee3116.css.map": "/INS/static/css/main.8bee3116.css.map",
+    "main.f9c59b00.js.map": "/INS/static/js/main.f9c59b00.js.map"
   },
   "entrypoints": [
-    "static/css/main.877d6823.css",
-    "static/js/main.fa735a3e.js"
+    "static/css/main.8bee3116.css",
+    "static/js/main.f9c59b00.js"
   ]
 }
